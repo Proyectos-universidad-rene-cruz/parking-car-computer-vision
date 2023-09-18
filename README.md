@@ -1,6 +1,6 @@
 # parking-car-computer-vision
 
-This is a tutorial from YouTube if you want to watch the content in the following [link](https://youtu.be/caKnQlCMIYI?si=ohtaU3By7zEsYMz6). The video is clear and this repository code uses the same observation case but applied in the whole parking car scenario, feel free to update it and create a better code. 
+This is a tutorial from YouTube if you want to watch the content in the following [link](https://youtu.be/caKnQlCMIYI?si=ohtaU3By7zEsYMz6). The video is clear and this repository code uses the same observation case but applied in the whole parking car scenario, feel free to update it and create a better code.
 
 ## Objective
 
